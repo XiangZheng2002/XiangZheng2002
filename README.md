@@ -3,7 +3,7 @@
 - 🔭 I’m currently a third-year undergradute student at South China University of Technology.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Talk with me about anything related to Machine Learning.
-- 📫 How to reach me: xiangzhengzxxx@163.com
+- 📫 How to reach me: zhengxiangzxxx@163.com
 - 😄 Read more about my personal page: [here](https://xiangzheng2002.github.io/)
 
 <!-- 
