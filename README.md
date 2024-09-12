@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Xiang Zheng.
 
-- 🔭 I’m currently a third-year undergradute student at South China University of Technology.
+- 🔭 I’m currently a senior undergradute student at South China University of Technology, currently exchanging at UC Berkeley
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Talk with me about anything related to Machine Learning.
 - 📫 How to reach me: zhengxiangzxxx@163.com
