@@ -3,7 +3,7 @@
 - 🔭 I’m currently a Master of Science in Computer Science student in Georgia Institute of Technology.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💬 Talk with me about anything related to Machine Learning.
-- 📫 How to reach me: zhengxiangzxxx@163.com
+- 📫 How to reach me: xzheng353@gatech.edu
 - 😄 Read more about my personal page: [here](https://xiangzheng2002.github.io/)
 
 <!-- 
